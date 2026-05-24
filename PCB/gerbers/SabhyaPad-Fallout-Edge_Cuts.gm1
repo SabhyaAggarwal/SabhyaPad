@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.2*%
+%TF.CreationDate,2026-05-24T17:48:56+05:30*%
+%TF.ProjectId,SabhyaPad-Fallout,53616268-7961-4506-9164-2d46616c6c6f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.2) date 2026-05-24 17:48:56*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X81850000Y-63689999D02*
+X139200000Y-63689999D01*
+X139200000Y-125539999D01*
+X81850000Y-125539999D01*
+X81850000Y-63689999D01*
+M02*
