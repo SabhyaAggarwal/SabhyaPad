@@ -1,10 +1,5 @@
-Sheet 1: SabhyaPad-BOM
 Item,Quantity,Remarks,Unit Price 1 (INR),Order Quantity,Order Unit Price (INR),Order Unit Price (Est. USD)
-Switches,6,Switches of MX style. Comes in shipping,₹93.18,6,₹93.18,$1.00
-Seeed Studio Xiao RP2040,1,Main Chip. Out of Pocket,₹464.97,1,₹464.97,$4.90
-Blank DSA keycaps,6,Blank DSA keycaps. Comes in shipping,₹100.00,6,₹600.00,$6.30
-PCB,1,Main PCB. Out of pocket,₹1112.00,1,₹1112.00,$11.70
-
-Sheet 2: Needed from Hackclub
-Item,Quantity,Remarks,Unit Price 1 (INR),Order Quantity,Order Unit Price (INR),Order Unit Price (Est. USD)
-Shipping,1,I will get my switches and keycaps from another hackclubber and they will send them to me via shiprocket.,₹99.36,1,₹99.36,$1.05
+Switches,6,Switches of MX style.,₹93.18,6,₹93.18,$1.00
+Seeed Studio Xiao RP2040,1,Main Chip.,₹464.97,1,₹464.97,$4.90
+Blank DSA keycaps,6,Blank DSA keycaps.,₹100.00,6,₹600.00,$6.30
+PCB,1,Main PCB.,₹1112.00,1,₹1112.00,$11.70
