@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SabhyaPad-Fallout.kicad_pro",
+    "filename": "SabhyaPad.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -643,8 +643,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "SabhyaPad-Fallout.kicad_sch",
-        "name": "SabhyaPad-Fallout",
+        "filename": "SabhyaPad.kicad_sch",
+        "name": "SabhyaPad",
         "uuid": "e53e7866-e1a6-4bc2-a332-87679a225bbb"
       }
     ],
