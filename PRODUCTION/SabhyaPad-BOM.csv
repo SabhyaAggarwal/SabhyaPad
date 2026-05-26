@@ -1,5 +1,7 @@
-Item,Quantity,Remarks,Unit Price 1 (INR),Order Quantity,Order Unit Price (INR),Order Unit Price (Est. USD)
-Switches,6,Switches of MX style.,₹93.18,6,₹93.18,$1.00
-Seeed Studio Xiao RP2040,1,Main Chip.,₹464.97,1,₹464.97,$4.90
-Blank DSA keycaps,6,Blank DSA keycaps.,₹100.00,6,₹600.00,$6.30
-PCB,1,Main PCB.,₹1112.00,1,₹95.25,$1.00
+Item,Quantity,Remarks,Unit Price 1 (INR),Order Quantity,Order Unit Price (INR),Order Unit Price (Est. USD),Link To Buy
+Switches,6,Switches of MX style.,₹93.18,6,₹93.18,$1.00,https://www.mouser.in/ProductDetail/CHERRY/MX1A-L1NN?qs=F5EMLAvA7IDlALNAurZTXA%3D%3D
+Seeed Studio Xiao RP2040,1,Main Chip.,₹464.97,1,₹464.97,$4.90,https://www.mouser.in/ProductDetail/Seeed-Studio/102010630?qs=sqEgtWRSLJ0HHL%252BkmwiGyA%3D%3D
+Blank DSA keycaps,6,Blank DSA keycaps of black colour(3d printed).,₹2.13,6,₹12.75,$0.13,Own 3d printer or print-legion
+PCB,1,Main PCB.,₹1112.00,1,₹95.25,$1.00,allpcb.com
+M3x16mm screws,4,Screws.,₹12.27,4,₹49.09,$0.51,https://robokits.co.in/robot-parts/nut-bolts-standoffs/mushroom-head-bolts/m3-x-16-mm-ss-bolt-precision-stainless-steel-304-moq-25-pcs
+M3 nuts,4,Nuts,₹1.18,4,₹4.72,$0.05,https://robokits.co.in/robot-parts/nut-bolts-standoffs/nuts/m3-nuts-304-stainless-steel-moq-50-pcs
