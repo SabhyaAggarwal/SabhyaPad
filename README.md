@@ -20,9 +20,17 @@ And this is what my PCB design looks like...
 
 <img width="1064" height="616" alt="image" src="https://github.com/user-attachments/assets/b9bcddda-a231-4e5e-9894-024474978a85" />
 
-### Case Render
+## 3D Models
+
+Please note that I will add USB-C port after I receive the PCB and can confirm the measurements
+
+### Case Render(SabhyaPad Case Assembled)
 
 <img width="1108" height="822" alt="image" src="https://github.com/user-attachments/assets/0e23bf86-4606-47e5-ad29-d0b590f440a6" />
+
+### Cut Case Render(SabhyaPad Case Cut)
+
+<img width="695" height="413" alt="Screenshot 2026-05-28 at 1 19 48 PM" src="https://github.com/user-attachments/assets/ad223ddf-c578-42b2-bb1a-d4c3dc7839fb" />
 
 ---
 
