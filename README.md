@@ -26,15 +26,18 @@ Please note that I will add USB-C port after I receive the PCB and can confirm t
 
 ### Case Render(SabhyaPad Case Assembled)
 
-<img width="1108" height="822" alt="image" src="https://github.com/user-attachments/assets/0e23bf86-4606-47e5-ad29-d0b590f440a6" />
+<img width="843" height="536" alt="Screenshot 2026-06-10 at 11 30 27 PM" src="https://github.com/user-attachments/assets/f8b7894e-f188-406c-ae61-83ce9adb4cd0" />
+
 
 ### Cut Case Render(SabhyaPad Case Cut)
 
-<img width="695" height="413" alt="Screenshot 2026-05-28 at 1 19 48 PM" src="https://github.com/user-attachments/assets/ad223ddf-c578-42b2-bb1a-d4c3dc7839fb" />
+<img width="874" height="528" alt="Screenshot 2026-06-10 at 11 31 21 PM" src="https://github.com/user-attachments/assets/1e93eed8-a6d7-47dd-9058-49b9e7e0bbc5" />
+
 
 ### Final Render(no keycaps)
 
-<img width="465" height="507" alt="Screenshot 2026-06-02 at 11 12 01 AM" src="https://github.com/user-attachments/assets/c8a886eb-abc4-420b-9e4c-23b97dbc23f4" />
+<img width="846" height="555" alt="Screenshot 2026-06-10 at 11 29 30 PM" src="https://github.com/user-attachments/assets/937e7dfa-f806-4e3a-843d-dea7589cda09" />
+
 
 ---
 
