@@ -9,10 +9,10 @@
     [
       "KC_VOLU",
       "KC_VOLD",
-      "KC_COPY",
+      "LCMD(KC_C)",
       "KC_BRIU",
       "KC_BRID",
-      "KC_PSTE"
+      "LCMD(KC_V)"
     ],
     [
       "KC_A",

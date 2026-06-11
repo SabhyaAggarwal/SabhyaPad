@@ -24,7 +24,7 @@
         ]
     },
     "processor": "RP2040",
-    "url": "",
+    "url": "https://github.com/SabhyaAggarwal/SabhyaPad",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
