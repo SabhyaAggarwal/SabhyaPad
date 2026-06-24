@@ -44,6 +44,14 @@ Please note that I will add USB-C port after I receive the PCB and can confirm t
 
 ---
 
+# Assembly
+
+For assembly:
+1. 3D Print the case cut file.
+2. Take your soldered PCB and push it into the top part. It will click and then it will be attached.
+3. Take the bottom part and put it at the bottom.
+4. Use M3x16mm screws and the M3 nuts to enclose it.
+
 # Firmware
 
 The SabhyaPad firmware is based on **QMK Firmware** and is located in:
