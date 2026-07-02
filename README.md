@@ -4,10 +4,22 @@ This is my own MacroPad, called **SabhyaPad**! It has 6 buttons that can easily 
 
 <img width="1202" height="802" alt="image" src="https://github.com/user-attachments/assets/5c3a187a-51d2-4c51-a3fa-b85cd888f4c1" />
 
+Here is a [video](https://cdn.hackclub.com/019f2316-0e67-7a4d-8c84-a0a9b8b9712b/Video.mov)
 
 I made this so that my life is easier. Currently, it is configured to do this...
 
 <img width="145" height="98" alt="Screenshot 2026-05-24 at 6 02 34 PM" src="https://github.com/user-attachments/assets/16749f90-6267-47b6-a7e4-e2aabe7f8d18" />
+
+## BOM
+|Item                    |Quantity|Remarks                                       |Unit Price 1 (INR)|Order Quantity|Order Unit Price (INR)|Order Unit Price (Est. USD)|Link To Buy                                                                                                                           |
+|------------------------|--------|----------------------------------------------|------------------|--------------|----------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|Switches                |6       |Switches of MX style.                         |₹93.18            |6             |₹93.18                |$1.00                      |https://www.mouser.in/ProductDetail/CHERRY/MX1A-L1NN?qs=F5EMLAvA7IDlALNAurZTXA%3D%3D                                                  |
+|Seeed Studio Xiao RP2040|1       |Main Chip.                                    |₹464.97           |1             |₹464.97               |$4.90                      |https://www.mouser.in/ProductDetail/Seeed-Studio/102010630?qs=sqEgtWRSLJ0HHL%252BkmwiGyA%3D%3D                                        |
+|Blank DSA keycaps       |6       |Blank DSA keycaps of black colour(3d printed).|₹2.13             |6             |₹12.75                |$0.13                      |Own 3d printer or print-legion                                                                                                        |
+|PCB                     |1       |Main PCB.                                     |₹1112.00          |1             |₹95.25                |$1.00                      |allpcb.com                                                                                                                            |
+|M3x16mm screws          |4       |Screws.                                       |₹12.27            |4             |₹49.09                |$0.51                      |https://robokits.co.in/robot-parts/nut-bolts-standoffs/mushroom-head-bolts/m3-x-16-mm-ss-bolt-precision-stainless-steel-304-moq-25-pcs|
+|M3 nuts                 |4       |Nuts                                          |₹1.18             |4             |₹4.72                 |$0.05                      |https://robokits.co.in/robot-parts/nut-bolts-standoffs/nuts/m3-nuts-304-stainless-steel-moq-50-pcs                                    |
+
 
 ## Hardware
 
