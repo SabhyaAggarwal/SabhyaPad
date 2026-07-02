@@ -4,7 +4,7 @@ This is my own MacroPad, called **SabhyaPad**! It has 6 buttons that can easily 
 
 <img width="1202" height="802" alt="image" src="https://github.com/user-attachments/assets/5c3a187a-51d2-4c51-a3fa-b85cd888f4c1" />
 
-Here is a [video](https://cdn.hackclub.com/019f2316-0e67-7a4d-8c84-a0a9b8b9712b/Video.mov)
+Here is a [video](https://youtu.be/60F119tDTQQ)
 
 I made this so that my life is easier. Currently, it is configured to do this...
 
