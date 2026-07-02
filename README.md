@@ -4,11 +4,11 @@ This is my own MacroPad, called **SabhyaPad**! It has 6 buttons that can easily 
 
 <img width="1202" height="802" alt="image" src="https://github.com/user-attachments/assets/5c3a187a-51d2-4c51-a3fa-b85cd888f4c1" />
 
-## Here is a [video](https://youtu.be/60F119tDTQQ) of it on YouTube!!! I accidentally put the wrong link in the demo section actually...
-
 I made this so that my life is easier. Currently, it is configured to do this...
 
 <img width="145" height="98" alt="Screenshot 2026-05-24 at 6 02 34 PM" src="https://github.com/user-attachments/assets/16749f90-6267-47b6-a7e4-e2aabe7f8d18" />
+
+## Here is a [video](https://youtu.be/60F119tDTQQ) of it on YouTube!!! I accidentally put the wrong link in the demo section actually...
 
 ## BOM
 |Item                    |Quantity|Remarks                                       |Unit Price 1 (INR)|Order Quantity|Order Unit Price (INR)|Order Unit Price (Est. USD)|Link To Buy                                                                                                                           |
